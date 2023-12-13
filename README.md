@@ -1,4 +1,4 @@
-Copy env.example and paste rename it to .env
+<p>Copy env.example and paste rename it to .env</p>
 php artisan key:generate
 php artisan migrate
 php artisan db:seed
